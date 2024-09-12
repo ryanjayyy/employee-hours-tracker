@@ -12,5 +12,6 @@
 <link href="{{ asset('assets/plugins/global/plugins.bundle.css') }}" rel="stylesheet" type="text/css" />
 <link href="{{ asset('assets/css/style.bundle.css') }}"  rel="stylesheet" type="text/css" />
 <link href="{{ asset('assets/plugins/custom/fullcalendar/fullcalendar.bundle.css') }}" rel="stylesheet" type="text/css" />
+<link rel="icon" href="{{ asset('assets/media/emp-hours-tracker-logo.png') }}" type="image/x-icon" />
 
 <meta name="csrf-token" content="{{ csrf_token() }}" />

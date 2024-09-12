@@ -12,69 +12,6 @@
                 <!--end::Nav link-->
             </li>
             <!--end::Nav item-->
-            <!--begin::Nav item-->
-            <li class="nav-item mb-2">
-                <!--begin::Nav link-->
-                <a class="nav-link btn btn-icon btn-active-info btn-color-gray-600" data-bs-toggle="tab" href="#">
-                    <i class="ki-outline ki-handcart fs-2"></i>
-                </a>
-                <!--end::Nav link-->
-            </li>
-            <!--end::Nav item-->
-            <!--begin::Nav item-->
-            <li class="nav-item mb-2">
-                <!--begin::Nav link-->
-                <a class="nav-link btn btn-icon btn-active-info btn-color-gray-600 active" data-bs-toggle="tab" href="#">
-                    <i class="ki-outline ki-paypal fs-2"></i>
-                </a>
-                <!--end::Nav link-->
-            </li>
-            <!--end::Nav item-->
-            <!--begin::Nav item-->
-            <li class="nav-item mb-2">
-                <!--begin::Nav link-->
-                <a class="nav-link btn btn-icon btn-active-info btn-color-gray-600" data-bs-toggle="tab" href="#">
-                    <i class="ki-outline ki-cheque fs-2"></i>
-                </a>
-                <!--end::Nav link-->
-            </li>
-            <!--end::Nav item-->
-            <!--begin::Nav item-->
-            <li class="nav-item mb-2">
-                <!--begin::Nav link-->
-                <a class="nav-link btn btn-icon btn-active-info btn-color-gray-600" data-bs-toggle="tab" href="#">
-                    <i class="ki-outline ki-address-book fs-2"></i>
-                </a>
-                <!--end::Nav link-->
-            </li>
-            <!--end::Nav item-->
-            <!--begin::Nav item-->
-            <li class="nav-item mb-2">
-                <!--begin::Nav link-->
-                <a class="nav-link btn btn-icon btn-active-info btn-color-gray-600" data-bs-toggle="tab" href="#">
-                    <i class="ki-outline ki-note-2 fs-2"></i>
-                </a>
-                <!--end::Nav link-->
-            </li>
-            <!--end::Nav item-->
-            <!--begin::Nav item-->
-            <li class="nav-item mb-2">
-                <!--begin::Nav link-->
-                <a class="nav-link btn btn-icon btn-active-info btn-color-gray-600" data-bs-toggle="tab" href="#">
-                    <i class="ki-outline ki-security-user fs-2"></i>
-                </a>
-                <!--end::Nav link-->
-            </li>
-            <!--end::Nav item-->
-            <!--begin::Nav item-->
-            <li class="nav-item mb-2">
-                <!--begin::Nav link-->
-                <a class="nav-link btn btn-icon btn-active-info btn-color-gray-600" data-bs-toggle="tab" href="#">
-                    <i class="ki-outline ki-information fs-2"></i>
-                </a>
-                <!--end::Nav link-->
-            </li>
-            <!--end::Nav item-->
         </ul>
         <!--end::Tabs-->
     </div>
